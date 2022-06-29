@@ -1,3 +1,11 @@
 p = paragraph <p> random text </p> 
-
-
+h1 thru h6 - h1 being biggest and boldest in decreasing in acending order
+strong - bold
+em - italics
+<!--   --> - unseen comments
+ul - unordered list
+il - used as a chold bracket to "ul" to hold bullet points in the list
+ol - ordered list (il also works for this"
+<a> - wraps links or other elements
+< a href "---"> link name </a> = this is how you use a hyper text link refrence
+< img src> - for images
